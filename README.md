@@ -12,7 +12,12 @@ This project explores heuristic-based state-space search. While a standard 3x3 p
     * `set`: Hash-based visited set for $O(1)$ state lookups.
 * **Scalability:** Tested and functional on grids from 3x3 up to 6x6.
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 1. Clone the repository:
    ```bash
    git clone [https://github.com/hugokwon5/A-Star-Puzzle-Solver.git](https://github.com/hugokwon5/A-Star-Puzzle-Solver.git)
+
+Run the solver:
+
+   '''bash
+   python solver.py

@@ -19,5 +19,5 @@ This project explores heuristic-based state-space search. While a standard 3x3 p
 
 Run the solver:
 
-   '''bash
+   ```bash
    python solver.py
